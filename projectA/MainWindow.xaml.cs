@@ -23,6 +23,7 @@ namespace projectA
         public MainWindow()
         {
             InitializeComponent();
+            //hahahahah
         }
     }
 }
