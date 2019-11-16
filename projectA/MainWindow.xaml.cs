@@ -24,6 +24,8 @@ namespace projectA
         {
             InitializeComponent();
             //hahahahah
+            //nanndoiukotoda
+            
         }
     }
 }
