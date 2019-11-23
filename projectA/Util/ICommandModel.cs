@@ -2,7 +2,7 @@ using System.Windows.Input;
 using System;
 
 
-namespace ICommandModelName{
+namespace Util.ICommandModelName{
     public  class ICommandModel : ICommand{
         private readonly Action<object> action; 
         private readonly Func<object,bool> canExecute;
