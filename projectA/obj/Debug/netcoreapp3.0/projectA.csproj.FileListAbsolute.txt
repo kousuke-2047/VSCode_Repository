@@ -1,0 +1,17 @@
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\projectA.csprojAssemblyReference.cache
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\App.g.cs
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\projectA_MarkupCompile.cache
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\projectA_MarkupCompile.lref
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\bin\Debug\netcoreapp3.0\projectA.exe
+D:\VS_Code_WorkSpace\VSCode_Repository\projectA\bin\Debug\netcoreapp3.0\projectA.deps.json
+D:\VS_Code_WorkSpace\VSCode_Repository\projectA\bin\Debug\netcoreapp3.0\projectA.runtimeconfig.json
+D:\VS_Code_WorkSpace\VSCode_Repository\projectA\bin\Debug\netcoreapp3.0\projectA.runtimeconfig.dev.json
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\bin\Debug\netcoreapp3.0\projectA.dll
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\bin\Debug\netcoreapp3.0\projectA.pdb
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\MainWindow.baml
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\projectA.g.resources
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\projectA.AssemblyInfoInputs.cache
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\projectA.AssemblyInfo.cs
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\projectA.dll
+d:\VS_Code_WorkSpace\VSCode_Repository\projectA\obj\Debug\netcoreapp3.0\projectA.pdb
