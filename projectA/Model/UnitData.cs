@@ -1,5 +1,7 @@
 using Util.BindingPropertyName;
 using ItemName;
+using MapGraphicName;
+using CanEquipName;
 using System.Collections.Generic;
 
 namespace UnitDataName{
@@ -135,7 +137,7 @@ namespace UnitDataName{
         public int UnitDefenceGrowth{get;set;}
         public int UnitMagicDefenceGrowth{get;set;}
         public string UnitFaceGraphic{get;set;}
-//        public MapGraphic UnitMapGraphic{get;set;}
+        public MapGraphic UnitMapGraphic{get;set;}
         private string _unitTeam;
         public string UnitTeam{
             get{return _unitTeam;}
@@ -151,8 +153,13 @@ namespace UnitDataName{
             }
         }
         public string UnitMoveType{get;set;}
-        public List<Item> UnitItemList;
-
+        public List<Item> UnitItemList{get;set;}
+        public CanEquip UnitCanEquip{get;set;}
+        public int TotalPower{get;set;}
+        public int TotalHit{get;set;}
+        public int TotalDodge{get;set;}
+        public int TotalCritical{get;set;}
+        public int TotalSpeed{get;set;}
 
 
 
