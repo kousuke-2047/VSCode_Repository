@@ -1,4 +1,6 @@
 using Util.BindingPropertyName;
+using ItemName;
+using System.Collections.Generic;
 
 namespace UnitDataName{
     public class UnitData : BindingProperty{
@@ -149,7 +151,7 @@ namespace UnitDataName{
             }
         }
         public string UnitMoveType{get;set;}
-//        public List<Item> UnitItemList;
+        public List<Item> UnitItemList;
 
 
 
